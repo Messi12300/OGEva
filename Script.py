@@ -9,7 +9,7 @@ You can find the bot commands here.
 
 <blockquote>Tap on corresponding modules to get the commands of that module.</blockquote>"""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-💻 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Cyber_Fcracker>Franzmods</a>
+💻 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MC_Adminser_bot>MC admin</a>
 📝 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 📚 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ⚠️ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -19,7 +19,7 @@ You can find the bot commands here.
 - It is an private one 🕐 
 
 <b>DEVS:</b>
-- <a href=https://t.me/Cyber_Fcracker>Update Channel :)</a>"""
+- <a href=https://t.me/MC_Adminser_bot>Update Channel :)</a>"""
 
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
@@ -45,16 +45,16 @@ You can find the bot commands here.
     STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
 ★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
 ★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
-★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
-★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
+★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 
+★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> """
     LOG_TEXT_G = """#NewGroup
-ONR Bot 💫
+MC Bot 💫
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
 """
     LOG_TEXT_P = """#NewUser
-ONR bot ⚡
+Mc bot ⚡
 ID - <code>{}</code>
 Name - {}
 """
